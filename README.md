@@ -43,3 +43,4 @@ For example, to generate 64 images from a trained model checkpoint, run:
 checkpoint /path/to/checkpoint.pt --num_samples 64
 Acknowledgments
 This implementation is based on the code provided by the authors of the paper "Training Generative Models with Denoising Diffusion Probabilities". The code can be found at https://github.com/hojonathanho/diffusion.
+![ddimflowers (1)](https://user-images.githubusercontent.com/77893734/227646759-62c288f6-751c-4fc4-8379-dbdf4dc1eeda.gif)
