@@ -1,7 +1,7 @@
 # DDIM
 # Denoising Diffusion Implicit Model
 Denoising Diffusion Implicit Model
-This repository contains the implementation of the Denoising Diffusion Implicit Model (DDIM), a deep generative model for image generation and restoration. This implementation is based on the paper "Training Generative Models with Denoising Diffusion Probabilities" by Jonathan Ho, Ajay Jain, Pieter Abbeel, and Yoshua Bengio.
+This repository contains the implementation of the Denoising Diffusion Implicit Model (DDIM), a deep generative model for image generation and restoration. 
 
 Requirements
 The implementation requires the following packages:
@@ -15,7 +15,7 @@ Usage
 The implementation provides two main scripts: train.py and generate.py.
 
 Training
-The train.py script is used to train the DDIM model on a dataset. The following arguments can be used to configure the training:
+The ddim.py script is used to train the DDIM model on a dataset. The following arguments can be used to configure the training:
 
 --dataset: Path to the dataset directory.
 --batch_size: Batch size used during training. Default is 32.
