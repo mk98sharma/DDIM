@@ -8,7 +8,6 @@ The implementation requires the following packages:
 
 Python 3.6+
 Tensorflow 2.9+
-TorchVision 0.8+
 These packages can be installed using pip or conda.
 
 Usage
