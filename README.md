@@ -1,6 +1,6 @@
 # DDIM
+# Denoising Diffusion Implicit Model
 Denoising Diffusion Implicit Model
-#Denoising Diffusion Implicit Model
 This repository contains the implementation of the Denoising Diffusion Implicit Model (DDIM), a deep generative model for image generation and restoration. This implementation is based on the paper "Training Generative Models with Denoising Diffusion Probabilities" by Jonathan Ho, Ajay Jain, Pieter Abbeel, and Yoshua Bengio.
 
 Requirements
